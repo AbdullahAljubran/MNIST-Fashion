@@ -27,13 +27,12 @@ Features
 Requirements
 To run this application, you need:
    ```bach
-   Python 3.7+
-   streamlit==1.22.0
-   opencv-python==4.7.0.72
-   numpy==1.24.3
-   scikit-learn==1.2.2
-   joblib==1.2.0
-   Pillow==9.5.0
+streamlit
+numpy
+Pillow
+scikit-learn
+joblib
+
 ```
 
 ---
